@@ -9,4 +9,4 @@ A branch is a recorded change to a document.
 * What is a commit? What makes a good commit message?
 A commit is records changes to a repository
 * What is a merge conflict?
-A merge conflict is when you attempt to merge a document that different modifications that conflict.
+A merge conflict is when you attempt to merge a document that have different modifications (especially from two different users) that conflict.
