@@ -1,0 +1,41 @@
+Release 0:
+Psuedo code for using an elevator:
+
+if user wants to go up:
+	push up arrow button
+else
+	push down arrow button
+while door is not open
+	twiddle thumbs
+Enter elevator
+Select floor button (user selection)
+while door is not open
+	twiddle thumbs
+Leave elevator
+
+
+Release 1:
+Psuedo code for doing the dishes:
+
+
+open dishwasher
+while dishwasher is not full:
+	select a dish
+	if dish is dirty:
+		insert dish into trays
+	else:
+		put dish back where you got it
+put in dishwasher soap
+if dishwasher <= 50% full
+	select "light clean"
+	wait until dishwasher is finished
+if dishwasher > 50% full
+	select "heavy clean"
+	wait until dishwasher is finished
+else
+	close dishwasher and end code
+open dishwasher
+while dishwasher is not empty
+	select a dish
+	put dish away
+
