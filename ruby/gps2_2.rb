@@ -95,12 +95,17 @@ update_item(grocery_list,"Ice-Cream",1)
 print_list(grocery_list)
 
 
+# Q/A
 
-
-
-
-
-
-
-
-
+# What did you learn about pseudocode from working on this challenge?
+	# Implementation shouldn't be apart of the pseudocode, keep it simple and to the point.
+# What are the tradeoffs of using arrays and hashes for this challenge?
+	# Hashes are great for easy access of data. Arrays seem to be easier to work with for manipulation.
+# What does a method return?
+	# The last operation ran in the method
+# What kind of things can you pass into methods as arguments?
+	# Any object (strings, integers, arrays, hashes, classes, etc.)
+# How can you pass information between methods?
+	# Passing returns to parameters, or by passing parameters to other parameters
+# What concepts were solidified in this challenge, and what concepts are still confusing?
+	# Psuedocoding and procedures for asking questions to the guide were solidified this GPS. 
